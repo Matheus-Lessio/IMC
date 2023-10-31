@@ -22,7 +22,7 @@ form.addEventListener('submit', function(event) {
     } else if (bmi > 30 && bmi <=35) {
         description = "CUIDADO! Você está Gordo"
     } else if (bmi > 35 && bmi <=40) {
-        description = "CUIDADO! Você está mais próximo de ficar acima do peso!!"
+        description = "CUIDADO! Você está fofinho!"
     } else {
         description = "VOCÊ ESTÁ ACIMA DO PESO!!!"
     }
